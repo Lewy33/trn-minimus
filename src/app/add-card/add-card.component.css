@@ -12,11 +12,11 @@
   cursor: pointer;
   border-radius: 1.75rem;
   animation: 1.25s ease-in-out 0ms 1 fadein;
-  color: #443282;
+  color: #512d82;
 }
 
 .add__card-dark {
-  background: linear-gradient(to bottom, #711B86, #00057A);
+  background: linear-gradient(to bottom, #711B86, #0b167a);
   color: white;
 }
 
